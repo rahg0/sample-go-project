@@ -1,4 +1,4 @@
-module git.autodesk.com/security/ssm-session-validator
+module github.com/avelino/awesome-go
 
 go 1.25.6
 
